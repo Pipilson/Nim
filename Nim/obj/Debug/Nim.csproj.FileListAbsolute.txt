@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Nim\Nim\bin\Debug\Nim.exe.config
+C:\Users\user\Desktop\Nim\Nim\bin\Debug\Nim.exe
+C:\Users\user\Desktop\Nim\Nim\bin\Debug\Nim.pdb
+C:\Users\user\Desktop\Nim\Nim\obj\Debug\Nim.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Nim\Nim\obj\Debug\Nim.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Nim\Nim\obj\Debug\Nim.exe
+C:\Users\user\Desktop\Nim\Nim\obj\Debug\Nim.pdb
